@@ -1,0 +1,19 @@
+.welcome{
+    text-align: center;
+    background-color: blanchedalmond;
+    padding: 30px;
+}
+.form{
+    
+    font-size: larger;    
+}
+.nav{
+    display:inline  
+}
+#field{
+    align-content: center;
+    text-align: center;
+    background-color: lightblue;
+    text-decoration: none;
+
+}
